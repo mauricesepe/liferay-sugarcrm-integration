@@ -1,0 +1,6 @@
+Bundle-Name: Liferay Object Storage SugarCRM Language
+Bundle-SymbolicName: com.liferay.object.storage.sugarcrm.lang
+Bundle-Version: 1.0.0
+Provide-Capability:\
+	liferay.language.resources;\
+		resource.bundle.base.name="content.Language"
